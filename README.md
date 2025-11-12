@@ -1,7 +1,7 @@
 # Software-Technology-Project
-# PTTKHTT_Project
+
 ## List Member
-### Ngô Tuấn Hưng       - 3122560028  - PM (Thuần Back-End)
+### Ngô Tuấn Hưng       - 3122560028  - PM
 ### Nguyễn Quốc Tuấn    - 3122560087  - FrontEnd
 ### Đặng Huy Hoàng      - 3122560020  - FrontEnd
 ### Đào Phú Duy Tân     - 3122560066  - Viết báo cáo
@@ -18,7 +18,6 @@
 
 ## SQL Design :
 ### v1.0 : Initial Design 
-
 
 ## Essay :
 ### v1.0 : Initial Design 
